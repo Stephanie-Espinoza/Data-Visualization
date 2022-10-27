@@ -5,3 +5,4 @@
 
 
 ## Leading Causes of Death in the United States in 2017
+![Figure 2](https://github.com/Stephanie-Espinoza/Data-Visualization/blob/main/Figure_2.png)
